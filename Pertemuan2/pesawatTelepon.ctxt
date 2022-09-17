@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=pesawatTelepon
+comment1.params=tp
+comment1.target=java.lang.String\ terima_panggilan(java.lang.String)
+comment2.params=mp
+comment2.target=java.lang.String\ melakukan_panggilan(java.lang.String)
+numComments=3
